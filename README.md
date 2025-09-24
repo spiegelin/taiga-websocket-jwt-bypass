@@ -67,6 +67,9 @@ The script will demonstrate:
 - Real-time interception of project activities
 - Intelligence gathering capabilities
 
+### Video Reference
+[![YouTube](https://img.youtube.com/vi/fC74ZM7V64w/maxresdefault.jpg)](https://www.youtube.com/watch?v=fC74ZM7V64w)
+
 ## References
 
 - [Taiga Events Repository](https://github.com/taigaio/taiga-events)
