@@ -35,6 +35,7 @@ const options = {
 
 - Node.js installed
 - Taiga application running on localhost:9000 (or modify the script to your host)
+  - Two users: `admin:admin` and `testuser:password123` (or modify according to your users)
 - A Valid **expired** JWT token
 
 ### Scripts
