@@ -39,7 +39,7 @@ const options = {
 
 ### Scripts
 
-1. **cve.js** - Main demonstration script
+1. **sniff.js** - Main demonstration script
    - Validates token expiration
    - Tests API vs WebSocket authentication
    - Performs real-time surveillance with an expired token
@@ -52,7 +52,7 @@ const options = {
 
 ```bash
 # Start surveillance with expired token
-node cve.js
+node sniff.js
 
 # Generate test events (in another terminal)
 ./gen.sh
