@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 
 // --- Configuration ---
 const WS_URL = "ws://localhost:9000/events";
-const EXPIRED_TOKEN = "Your.Token.Here";
+const EXPIRED_TOKEN = "Your.Token.Here"; // eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzU4NzI2MTY5LCJqdGkiOiI0YjgxNWQwMDIwOTc0NmQyYTNiNjlhNWQzNTJmZDZkNSIsInVzZXJfaWQiOjV9.W3AkyvgNQjYvD5ROa4nq7dfQL_8dS_-SdMc6rM2NvGU
 
 console.log("WebSocket Sniffer");
 console.log("===================================================");
