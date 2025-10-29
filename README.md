@@ -6,7 +6,7 @@ This repository contains proof-of-concept scripts demonstrating an authenticatio
 
 ## Vulnerability Details
 
-**CVE:** Pending Assignment  
+**CVE:** CVE-2025-63290  
 **Component:** taiga-events WebSocket service  
 **Affected Versions:** Taiga v6.8.1 and earlier  
 
