@@ -8,7 +8,7 @@ This repository contains proof-of-concept scripts demonstrating an authenticatio
 
 **CVE:** CVE-2025-63290  
 **Component:** taiga-events WebSocket service  
-**Affected Versions:** Taiga v6.8.1 and earlier  
+**Affected Versions:** Taiga v6.9.0 and earlier  
 
 ## Root Cause
 
